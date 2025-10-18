@@ -1148,55 +1148,6 @@
         ],
         "ability": []
     },
-    "296": {
-        "name": [
-            "Ruika’s Lucky Mallet"
-        ],
-        "subtitle": [
-            "\"Head Maid Ruika always uses it to bonk the disobedient bunnies.\""
-        ],
-        "description": [
-		    "A hidden treasure of Maid Bunnies, said to be why they took over the ",
-			"market so fast. With a light swing, it grants the wielder’s wishes—",
-			"Adventurers often see it fixing machines broken by troublemakers"
-        ],
-        "ability": [
-            "Increases money and item drop rates"
-        ]
-    },
-    "297": {
-        "name": [
-            "Mio’s First Aid Kit"
-        ],
-        "subtitle": [
-            "\"Oh my god! I fell into the hole again!?\""
-        ],
-        "description": [
-		    "Originally a tool the admin used to test the healing system",
-			"but he forgot to delete it later. Still, it’s useless ",
-			"against instant-death mechanics"
-        ],
-        "ability": [
-            "Restores 100% HP per second when equipped"
-        ]
-    },
-    "298": {
-        "name": [
-            "Shiroin’s Golden Finger"
-        ],
-        "subtitle": [
-            "\"You know this thing will ruin the game, right?\"",
-			"\"I know.\"",
-			"\"And you still want to equip it?\"",
-			"\"Of course.\""
-        ],
-        "description": [
-		    "A relic that turns touch to gold — the Bladekeepers’ ultimate dream"
-        ],
-        "ability": [
-            "Weapons no longer break from attacks"
-        ]
-    },
     "299": {
         "name": [
             "Absolute Territory"
