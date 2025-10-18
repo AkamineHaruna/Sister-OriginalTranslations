@@ -13,6 +13,23 @@
 			"Always gives an 11-pull with at least one gold ball"
 		]
     },
+    "2": {
+        "name": [
+            "Adventurer’s Handbook"
+        ],
+        "subtitle": [
+		    "\"Written by RORO, begun on 2024/10/1\""
+		],
+        "description": [
+            "It began as a casual journal by an adventurer named RORO ",
+            "Over time, more people who found it fun joined and added notes",
+			"and thus this curious guidebook—covering everything from",
+			"‘How to Enter the Dungeon’ to ‘What to Eat for Dinner’—was born"
+        ],
+        "ability": [
+		    "Lets you browse the in-game guide"
+		]
+    },	
     "3": {
         "name": [
             "Junk"
@@ -113,6 +130,21 @@
             ""
         ],
         "ability": ""
+    },
+    "13": {
+        "name": [
+            "Bunny Map"
+        ],
+        "subtitle": "",
+        "description": [
+            "A map used by maid bunnies, still covered in carrot crumbs",
+			"They dig Rabbit Holes and zip around—almost like a delivery crew",
+            "Since that devilish, sharp-minded leader appeared ten years ago",
+            "the bunnies took over the Abyss and started trading with monsters"
+        ],
+        "ability": [
+            "Allows you to view the Abyss map and all interactive objects"
+        ]
     },
     "14": {
         "name": [

@@ -340,7 +340,7 @@
     "name": [],
     "subtitle": [],
     "description": [
-      "✦\\c[27](Feels like body is ",
+      "✦(Feels like body is ",
 	  "becoming so light...)"
     ]
   },
@@ -348,7 +348,7 @@
     "name": [],
     "subtitle": [],
     "description": [
-      "✦\\c[22]mind begins to loosen up—"
+      "✦mind begins to loosen up—"
     ]
   },
   "40": {
@@ -371,7 +371,7 @@
     "name": [],
     "subtitle": [],
     "description": [
-      "✦\\c[29]Satisfied after eating,",
+      "✦Satisfied after eating,",
       "\\str[120] feels happy!"
     ]
   },
@@ -710,6 +710,15 @@
     ],
     "description": [
       ""
+    ]
+  },
+  "122": {
+    "name": [],
+    "subtitle": [
+      "\"Heh heh I'll survive, I swear it\""
+    ],
+    "description": [
+      "Permanently restores HP automatically"
     ]
   }
 }
