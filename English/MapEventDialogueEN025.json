@@ -75,6 +75,76 @@
 			"Okay, let’s get started on dinner—!!\""
 		]
     },
+
+  "3": {
+        "0": [
+            "\\nl< >\"\\str[121]... You’re still there, right?\""
+		],
+        "1": [
+            "\\nl< >\"Bugs are so scary, ",
+			"but \\str[121] came to help me right away.\""
+		],
+        "2": [
+            "\\nl< >\"You came so fast,",
+			"it’s like you were waiting right outside the toilet.\""
+		],
+        "3": [
+            "\\>\\{\"—Ack!\"",
+			"\\w[90]"
+		],
+        "4": [
+            "Overcome with guilt,",
+			"I lost focus for a moment, slipped, and almost fell."
+		],
+        "5": [
+            "\\nl< >\"\\str[121]... are you okay!?\""
+		],
+        "6": [
+            "\"N-no, I’m fine! I just ran over too fast,",
+			"and twisted my ankle a little, ahaha...\""
+		],
+        "7": [
+            "After that, I somehow managed to brush it off with \\str[120]."
+		],
+        "8": [
+            "\\nl< >\"\\str[121], honestly— you were so cool just a moment ago...",
+			"and now you’re teasing me again!\""
+		],
+        "9": [
+            "\\nl< >\"Come to think of it, \\str[121] showed up really fast this time.",
+			"Don’t tell me you were actually waiting outside the toilet from the start...?\""
+		],
+        "10": [
+            "\\nl< >\"Ugh, bugs really are scary...",
+			"I’m so glad \\str[121] came just in time.\""
+		],
+        "11": [
+            "\"Don’t worry, ",
+			"I’ll always come running whenever you’re in danger!\""
+		],
+        "12": [
+            "\\nl< >\"But you know, \\str[121]...",
+			"hiding outside the toilet from the start,",
+			"that’s pretty careless of you〜\""
+		],
+        "13": [
+            "\\nl< >\"That’s not okay, you know? ",
+			"Peeking at a girl while she’s using the toilet~!\""
+		],
+        "14": [
+            "\\nl< >\"So, how was it? ",
+			"Watching a girl pee with those lewd eyes of yours—",
+			"what did it feel like?\""
+		],
+        "15": [
+            "\\nl< >\"Ahaha... so I’ve been found out, huh...?\""
+		],
+        "16": [
+            "Cold sweat ran down my back as I looked at \\str[120]’s mischievous smile.",
+			"For a moment, I couldn’t even tell if she was actually angry—",
+			"maybe... I’m the one being toyed with here..."
+		]
+    },		
   "4": {
         "0": [
             "I wanted to cheer \\str[120] up a bit more,",
