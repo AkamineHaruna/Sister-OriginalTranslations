@@ -1270,15 +1270,16 @@
     },		
     "199": {
         "name": [
-            "Sister's reward coupon"
+            "\\str[120]'s Free Pass"
         ],
         "subtitle": [
-            "\"It's covered in lots of scribbles....\""
+            "\"There are lots of doodles and scribbles all over the pass...\""
 		],
         "description": [
-            "It's a special reward from the sister for hard-working onii-chan",
-            "You can make any request to her, even unreasonable ones",
-            "But even without it, she still wants to help carry onii-chan's burdens"
+            "A handmade Free Pass drawn by \\str[120]. \\str[121] may seek ",
+            "\\str[120]'s affection — no matter how selfish the request, it’s granted",
+            "Even so, \\str[120] has always wanted to do something nice for ",
+			"\\str[121], with or without the pass—"
         ],
         "ability": ""
     },

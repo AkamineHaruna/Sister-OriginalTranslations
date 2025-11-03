@@ -2,6 +2,9 @@
   "gameTitle": [
     "A Simple Life with My Unobtrusive Girl "
   ],
+  "goldHeld": [
+    "Gold"
+  ],
   "quantityHeld": [
     "\\fs[16]•Quantity Held:\\c[17] ${} \\c[0]\\py[-8]"
   ],
