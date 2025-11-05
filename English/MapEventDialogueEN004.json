@@ -51,7 +51,14 @@
             "Yep",
 			"Nope"
         ]
-    },
+    },	
+  "quickHeadpat": [
+            "My hair will get messy!", 
+			"Don’t pat it too much!", 
+			"Feels nice", 
+			"A little longer?", 
+			"Meow..."
+	],
   "2": {
         "0": [
             "I'm feeling a little bored... What should we play?"
