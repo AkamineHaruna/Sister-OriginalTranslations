@@ -374,7 +374,24 @@
       "✦Satisfied after eating,",
       "\\str[120] feels happy!"
     ]
-  },
+  },  
+  "42": {
+    "name": [],
+    "subtitle": [
+	  "\\str[120] watching TV"
+	],
+    "description": [
+      ""	
+    ],
+	"variants": {
+		"0": {
+           "description": [
+             "\\str[120] curls up like a kitten, ",
+			 "sneaking glances at me."
+           ]
+		}
+	}	
+  }, 
   "45": {
     "name": [],
     "subtitle": [

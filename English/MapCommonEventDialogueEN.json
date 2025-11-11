@@ -216,9 +216,9 @@
 			"it might help improve ${}'s condition"
 		]		
     },		
-  "imoutoAhoge": {
+  "\\str[120]Ahoge": {
         "0": [
-            "Accidentally pulled out Imouto’s ahoge."
+            "Accidentally pulled out \\str[120]’s ahoge."
 		],
 		"1": [
             "She didn’t seem to notice anything unusual, ",
@@ -226,7 +226,7 @@
 			"...Could this be some kind of renewable resource?"
         ],
         "2": [
-            "\\nl< >\"...What’s wrong, Onii-chan?",
+            "\\nl< >\"...What’s wrong, \\str[121]?",
 			"You look really serious.\""
         ],
         "3": [
@@ -238,7 +238,7 @@
         ],	
         "5": [
             "\\nl< >\"...My head feels a bit itchy.   \\w[30]",
-			"Did you do something, Onii-chan?\""
+			"Did you do something, \\str[121]?\""
         ],
         "6": [
             "\"I-I didn’t do anything… I mean it!\""
@@ -276,20 +276,20 @@
             "\\nl< >\"Hamburg steak is the most delicious food.\"  \\w[180] \\^"
 		],	  
         "1": [
-            "\\nl< >\"Onii-chan will surely bring back ",
-			"a mountain of meat for his Imouto...\"   \\w[360] \\^"
+            "\\nl< >\"\\str[121] will surely bring back ",
+			"a mountain of meat for his \\str[120]...\"   \\w[360] \\^"
 		],
         "2": [
             "My sister seems to be saying something..."
 		],
         "3": [
             "\\nl< >\"But green peppers are the enemy.   \\w[120]",
-			"Onii-chan, you have to eat them all…       \\w[120]",
+			"\\str[121], you have to eat them all…       \\w[120]",
 			"Go defeat the green enemy~!\"               \\w[120]\\^"
 		],	  
         "4": [
             "\\nl< >\"Ah, you’re awake…     \\w[60]",
-			"Onii-chan, did you sleep well?\""
+			"\\str[121], did you sleep well?\""
 		],
         "5": [
             "\"Not really… By the way, ",
@@ -298,7 +298,7 @@
 		],	
         "6": [
             "\\nl< >\"Eh hehe, that was my    \\w[60]",
-			"special sleep service for you, Onii-chan!\""
+			"special bedtime help for you, \\str[121]!\""
 		],	
         "7": [
             "\\nl< >\"My sister is so cute...               \\w[120]",
@@ -309,13 +309,13 @@
             "My sister seems to be saying something..."
 		],	
         "9": [
-            "\\nl< >\"Ah, onii-chan! Good evening—!\""
+            "\\nl< >\"Ah, \\str[121]! Good evening—!\""
 		],
         "10": [
             "\\nl< >\"Um... Did you hear everything I just said?\""
 		],
         "11": [
-            "\\nl< >\"Onii-chan, your sleeping face ",
+            "\\nl< >\"\\str[121], your sleeping face ",
 			"was so funny just now~\""
 		],
         "12": [
