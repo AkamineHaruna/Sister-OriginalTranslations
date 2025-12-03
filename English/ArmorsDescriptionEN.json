@@ -678,7 +678,7 @@
             "Red Horn"
         ],
         "subtitle": [
-            ""
+            "\"Don't you ever stop！\""
         ],
         "description": [
             "A crimson horn filled with the Jackalope’s magic",
@@ -701,6 +701,21 @@
         ],
         "ability": [
             "Attracts seagulls that steal your chips"
+        ]
+    },
+    "52": {
+        "name": [
+            "Shadowcrawler Gift"
+        ],
+        "subtitle": "",
+        "description": [
+            "Said to be a symbol from the depths where shadows creep",
+            "holding it makes you feel as if something is ",
+			"quietly writhing behind you—"
+        ],
+        "ability": [
+            "Movement speed increases",
+			"Gain the attention of ▓▓▓▓▓▓▓"
         ]
     },
     "53": {
