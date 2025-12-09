@@ -152,5 +152,35 @@
     "我们的 Steam 商店页面已经上线啦！",
 	"欢迎添加到心愿单支持我们！  (*´∀`)~♥",
 	"⬇点击即可跳转到Steam页面"
-  ]
+  ],
+  "AdventurersPathway": {
+    "mapName": " -冒險者小道- "
+  }, 
+  "ShallowRuinsLabyrinth": {
+    "mapName": " -浅層遺跡迷宮- "
+  }, 
+  "ForgottenCatacombe": {
+    "mapName": " -忘却的墓穴- "
+  }, 
+  "ForestofRuins": {
+    "mapName": " -遺跡之森- "
+  }, 
+  "AbandonedForest": {
+    "mapName": " -迷失之森- "
+  }, 
+  "ExcavationSite": {
+    "mapName": " -开拓中地区- "
+  }, 
+  "TheFallenChurch": {
+    "mapName": " -墮落的聖堂- "
+  }, 
+  "DoorofStar": {
+    "mapName": " -星之門- "
+  }, 
+  "ScorchingLavaZone": {
+    "mapName": " -大焦熱溶岩帶- "
+  }, 
+  "Nibelungen": {
+    "mapName": " -尼伯龍根- "
+  }    
 }
