@@ -10,7 +10,12 @@
 			"The network connection may have failed!",
 			"\\w[120]"
         ]		
-    },  
+    }, 
+  "Abyss": {
+        "0": [
+            " The Forsaken Eternal Tower "
+		]
+    },			
   "ElixirCraft": {
         "0": [
             " Elixir Craft "

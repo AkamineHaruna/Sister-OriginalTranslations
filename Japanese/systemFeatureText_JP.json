@@ -160,7 +160,8 @@
     "mapName": " -冒険の遊歩道- "
   }, 
   "ShallowRuinsLabyrinth": {
-    "mapName": " -浅層遺跡迷宮- "
+    "mapName":        " -浅層遺跡迷宮- ",
+	"mapDescription": " 数々の謎を孕む巨大迷宮 "	
   }, 
   "ForgottenCatacombe": {
     "mapName": " -忘却のカタコンベ- "
@@ -181,7 +182,8 @@
     "mapName": " -星の門- "
   }, 
   "ScorchingLavaZone": {
-    "mapName": " -大焦熱溶岩帯- "
+    "mapName":        " -大焦熱溶岩帯- ",
+	"mapDescription": " 渦巻く灼熱の大地、炎が紡ぐ試練の地 "
   }, 
   "Nibelungen": {
     "mapName": " -ニーベルンゲン- "

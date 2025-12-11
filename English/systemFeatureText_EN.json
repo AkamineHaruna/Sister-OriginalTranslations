@@ -155,7 +155,8 @@
     "mapName": " -Adventurer's Pathway- "
   }, 
   "ShallowRuinsLabyrinth": {
-    "mapName": " -Shallow Ruins Labyrinth- "
+    "mapName":        " -Shallow Ruins Labyrinth- ",
+	"mapDescription": " A vast labyrinth filled with countless mysteries "	
   }, 
   "ForgottenCatacombe": {
     "mapName": " -Forgotten Catacombe- "
@@ -176,7 +177,8 @@
     "mapName": " -Door of Star- "
   }, 
   "ScorchingLavaZone": {
-    "mapName": " -Scorching Lava Zone- "
+    "mapName":        " -Scorching Lava Zone- ",
+	"mapDescription": " A blazing land woven in fire, where trials burn eternal "
   }, 
   "Nibelungen": {
     "mapName": " -Nibelungen- "
