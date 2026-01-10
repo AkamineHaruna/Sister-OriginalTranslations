@@ -11,6 +11,17 @@
 			"\\w[120]"
         ]		
     }, 
+  "usingItem": {
+        "0": [
+            "Took out \\ii[\\v[90]]  ",
+			"what should I do…?"
+		],
+		"1": [
+            "Use It",
+			"Never Mind",
+			"Discard"
+        ]	
+    },
   "Abyss": {
         "0": [
             " The Forsaken Eternal Tower "
@@ -99,7 +110,22 @@
             "Fishing with bombs is strictly forbidden!",
 			"Do it at your own risk!"
 		]		
-    },	  
+    },
+  "nekoTruck": {
+        "0": [
+            "Want to buy \\v[84]?",
+			"It costs \\c[6]\\v[85]\\c[0]yen!"
+		],
+        "1": [
+            "buy it!",
+			"Never mind…",
+			"Sneakily take it…"
+		],
+        "10": "There isn’t a wide enough lane!",		
+		"11": "There are obstacles on the lane!",	
+		"12": "The Chariot has been successfully summoned!",	
+		"13": "The Chariot cannot be summoned in this area!"	
+    },		  
   "sela": {
 		"1": [
             "(Looks like she won’t be waking up anytime soon…",

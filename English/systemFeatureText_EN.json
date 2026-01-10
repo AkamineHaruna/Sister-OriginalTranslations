@@ -137,6 +137,16 @@
 	"Note: This is an experimental feature, and its effectiveness may vary depending on the device.",
 	"You can disable this feature at any time to immediately restore full image clarity."
   ],
+  "cloudSaveServiceWarning": [
+    "This feature will request access to your Google Drive,",
+	"so it can store your game save files in the NLCH/save folder.",
+    "The uploaded save files will be used for later synchronization and downloading back into the game.",
+    "Do you agree to grant the game access to Google Drive?"
+  ],
+  "uploadSaveFile": [
+    "Downloading a save file from Google Drive will overwrite your current local save data!",
+    "Do you want to continue?"
+  ],   
   "nearbyMonstersCount": [
     "Detected nearby monsters"
   ],
@@ -155,7 +165,8 @@
     "mapName": " -Adventurer's Pathway- "
   }, 
   "ShallowRuinsLabyrinth": {
-    "mapName": " -Shallow Ruins Labyrinth- "
+    "mapName":        " -Shallow Ruins Labyrinth- ",
+	"mapDescription": " A vast labyrinth filled with countless mysteries "	
   }, 
   "ForgottenCatacombe": {
     "mapName": " -Forgotten Catacombe- "
@@ -176,7 +187,8 @@
     "mapName": " -Door of Star- "
   }, 
   "ScorchingLavaZone": {
-    "mapName": " -Scorching Lava Zone- "
+    "mapName":        " -Scorching Lava Zone- ",
+	"mapDescription": " A blazing land woven in fire, where trials burn eternal "
   }, 
   "Nibelungen": {
     "mapName": " -Nibelungen- "
