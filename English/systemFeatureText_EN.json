@@ -101,6 +101,9 @@
   "totalFilesToUpdate": [
     "Detected ${} file(s) to update—starting download process!"
   ],
+  "silentUpdateSuccess": [
+    "New patch content for ${} has been successfully installed and will take effect upon the next restart."
+  ],
   "renameCharacter": [
     "I remember now—",
 	"she is..."

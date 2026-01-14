@@ -110,6 +110,9 @@
   "totalFilesToUpdate": [
     "检测到${}个文件需要更新——开始下载流程！"
   ],
+  "silentUpdateSuccess": [
+    "成功安装了${}的新增补丁内容，将在下次重启游戏时生效！"
+  ],
   "renameCharacter": [
     "我想起来了——",
 	"她就是——"
