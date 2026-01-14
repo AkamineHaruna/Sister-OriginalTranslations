@@ -1043,6 +1043,10 @@
 			"it took quite a bit of time to finally calm \\str[120] down.",
 			"I just hope this accident won't leave ",
 			"any lasting shadow in her heart..."
+		],
+        "37": [
+            "${$dataItems[189]?.name}",
+			"${$dataItems[188]?.name}"
 		]		
     },
   "11": {

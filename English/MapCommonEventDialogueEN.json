@@ -66,6 +66,11 @@
 		"1": [
             " Erase oneself, and wield the blade for comrades... "
         ]		
+    },
+  "AbyssPillars": {
+        "0": [
+            " ▓▓▓▓ has perceived your existence "
+		]		
     },		
   "unlockJackalope": {
         "0": [
@@ -325,7 +330,7 @@
     },
   "cookingSystem": {
         "0": [
-            "\\ii[\\v[\\v[85]]]is ready. What should I do?"
+            "\\ii[\\v[85]]is ready. What should I do?"
 		],
 		"1": [
             "Swap it",
