@@ -971,6 +971,21 @@
             "Strengthens the damage and form of fire-element magic"
         ]
     },
+    "75": {
+        "name": [
+            "Demon Eye"
+        ],
+        "subtitle": "",
+        "description": [
+            "An eyeball taken from a demon.  ",
+            "Demons skilled at manipulating minds often possess the ability ",
+			"to see through things. Perhaps it allows you to notice details ",
+			"that would otherwise be overlooked..."
+        ],
+        "ability": [
+            "Reveals hidden objects and paths while equipped"
+        ]
+    },	
     "80": {
         "name": [
             "Royal Decree"

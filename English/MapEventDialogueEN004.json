@@ -127,7 +127,218 @@
             "I do feel a bit lonely,",
             "but maybe I shouldn’t bother her too much—"
         ]		
-    },	
+    },
+  "3": {
+        "0": [
+            "\\nl< >\"Come on... \\str[121], ",
+			"please lie down right here!\""
+		],
+		"1": [
+            "\\str[120] nimbly spreads a blanket on the floor, ",
+			"then sits in a seiza position,",
+			"looking at me while gently patting her thighs."
+        ],
+		"2": [
+            "I lie down as told, ",
+			"and my head is immediately met with a soft, supple sensation.",
+			"Her body temperature seems a bit higher than usual. ",
+			"that cozy warmth is incredibly soothing."
+        ],
+		"3": [
+            "\\nl< >\"How is it, \\str[121]...?",
+			"Does it feel relaxing lying like this?\""
+        ],
+        "4": [
+            "\\str[120]'s small hand rests on my forehead, ",
+			"her fingertips gently combing through my hair.",
+			"Before long, I feel a wave of drowsiness washing over me."
+		],
+        "5": [
+            "\\nl< >\"Oh, right! Since we have the chance...",
+			"Why don't I clean your ears for you, \\str[121]?\""
+		],
+        "6": [
+            "\"Eh—? Right now?\""
+		],
+        "7": [
+            "Before I can even react, ",
+			"she's already produced a prepared ear-pick from somewhere.",
+			"But \\str[120] has never done this before, right? ",
+			"I'm feeling a bit nervous—"
+		],
+        "8": [
+            "\\nl< >\"There, there. ",
+			"\\str[121], turn on your side!",
+			"Face this way!\""
+		],
+        "9": [
+            "Without giving me a moment to respond, ",
+			"\\str[120] eagerly pushes my shoulder to turn me over,",
+			"burying my cheek almost completely into her soft belly."
+		],
+        "10": [
+			"\\nl< >\"Ehehe, I'm going to start now... ",
+            "It might tickle a bit, ",
+			"so try to bear with me for a second~\""
+		],
+        "11": [
+            "The cool ear pick cautiously enters my ear canal, ",
+			"and a spine tingling sensation instantly surges through my body.",
+            "Luckily, her movements are even gentler than expected.",
+			"the initial tension is soon replaced by a refreshing comfort."
+		],
+        "12": [
+            "The rhythmic scritch scratching sound and her close, ",
+			"warm presence make me feel completely blissful...",
+            "An even stronger drowsiness begins to take hold..."
+		],		
+        "12.5": [
+            "Nuzzle in",
+			"Act spoiled",
+			"End it here"
+		],
+        "13": [
+            "\\nl< >\"Is the pressure okay?       \\w[90]",
+			"If it hurts, you have to tell me, okay?\""
+		],		
+        "14": [
+            "\\nl< >\"\\str[121], you push yourself too hard.",
+			"Even your ears look exhausted. ",
+			"Just leave everything to me today!\""
+		],
+        "15": [
+            "\\nl< >\"Do \\str[120]'s thighs... feel comfortable to lie on?",
+			"If you're tired, it's okay to just fall asleep like this.\""
+		],
+        "16": [
+            "\\nl< >\"Going in just a little bit deeper now...",
+			"Mm, there's a little villain hiding there, too. ",
+			"Take that!\""
+		],
+        "17": [
+            "\\nl< >\"Looking at you from this angle, \\str[121]... ",
+			"you look a bit different than usual.",
+			"I think... you look a little cuter than usual... ♥\""			
+		],
+        "18": [
+            "\\nl< >\"It's so quiet... I can only hear \\str[121]'s breathing...",
+			"It feels like we're the only two people left in the world.\""
+		],		
+        "19": [
+            "\\nl< >\"\\str[121], your ears... they feel a bit hot to the touch.",
+			"I'm only cleaning them, so what kind of lewd things ",
+			"are you thinking about?\""
+		],
+        "20": [
+            "\\nl< >\"...Eh? \\str[121], ",
+			"were you just nuzzling against my stomach?",
+			"You have to lie still! ",
+			"Or I might poke the wrong spot...!\""
+		],
+        "21": [
+            "\\nl< >\"Ugh... um, ",
+			"don't take such deep breaths in a place like that...",
+			"My body... it shouldn't have any weird smell, right?\""
+		],
+        "22": [
+            "\\nl< >\"If you press your face so close...",
+			"\\str[121], you'll be able to hear my heartbeat loud and clear... ♥\""			
+		],
+        "23": [
+            "\\nl< >\"Burying your face so deep... ",
+			"is this you being a spoiled baby, \\str[121]~?",
+			"It's okay. In front of \\str[120], ",
+			"you're allowed to act like a child~\""
+		],			
+        "24": [
+            "\\nl< >\"Good boy, good boy~ ",
+			"It's dangerous if you move around too much,",
+			"so just sleep peacefully like this, \\str[121]~\""
+		],			
+        "25": [
+            "\\nl< >\"Fufu~ \\str[121] is being very clingy today... ♥",
+			"...Did something difficult happen while you were out?\""
+		],			
+        "26": [
+            "\\nl< >\"It's okay to rely on \\str[120] a little more, you know?",
+			"\\str[121] is a good boy ♥ There, there~ ♥\""
+		],			
+        "27": [
+            "\\}\\nl< >\"...I love you the most, \\str[121]~       \\w[150]\\{",
+			"——That's the kind of thing I can only say while you're asleep.\""
+		],
+        "30": [
+            "Even though it feels wonderful,",
+			"I signal to \\str[120] with a wave of my hand ",
+			"and then slowly sit up."
+		],
+        "31": [
+            "After immersing myself in that tingly sensation for a long while,",
+			"I finally take her hand with satisfaction and slowly sit up."
+		],
+        "32": [
+            "My consciousness gradually blurs amidst the rustling sounds.",
+			"Feeling the warmth from her stomach, ",
+			"I seem to have actually drifted off on her lap..."
+		],
+        "33": [
+            "\\nl< >\"Eh? Is it over already...?           \\w[120]",
+			"\\str[121], won't you lie down for a little longer?\""
+		],
+        "34": [
+            "\"It must be uncomfortable sitting like that for so long. ",
+			"Just being able to relax a bit was enough for me.\""
+		],
+        "35": [
+            "\\nl< >\"Is that the only reason?      \\w[120]",
+			"Hehe, it's just a lap pillow for \\str[121], ",
+			"I'm not tired at all...!\""
+		],
+        "36": [
+            "\\nl< >\"Next time, if \\str[121] wants it again,",
+			"come find me anytime!\""
+		],
+        "37": [
+            "\"Haa... I feel completely refreshed.\""
+		],
+        "38": [
+            "\\nl< >\"That's good...                          \\w[60]",
+			"It seems the results of my hard work are quite clear ♥\""
+		],	
+        "39": [
+            "\\nl< >\"Next time you feel tired,          \\w[60]",
+			"you have to come find me, okay?             \\w[60]",
+			"Whether it's a lap pillow or ear cleaning... ",
+			"I'll always be waiting for you, \\str[121].\""
+		],	
+        "40": [
+            "\\nl< >\"\\str[121]... \\str[121]~~     \\w[120]",
+			"Can you hear me~~?\""
+		],	
+        "41": [
+            "\\nl< >\"Fufufufu————      \\w[150]",
+			"Does this feel good? ",
+			"You have such a derpy face right now ♥\""
+		],	
+        "42": [
+            "I don't know how much time passed, ",
+			"but I hear her soft call in my ear, ",
+			"accompanied by faint puffs of breath."
+		],	
+        "43": [
+            "I sit up while rubbing my sleepy eyes. ",
+			"it seems it's already quite late,",
+			"and \\str[120] can't hide the sleepiness in her own gaze."
+		],	
+        "44": [
+            "\\nl< >\"You slept so soundly, \\str[121], I'm so glad... ♥    \\w[90]",
+			"I wanted to keep watching your sleeping face,                  \\w[90]",
+			"but it's already time for bed...\""
+		],	
+        "45": [
+            "\\nl< >\"If \\str[121] wants more, come back next time~\""
+		]
+    },			
   "4": {
         "0": [
             "\\nl< >\"Grrrr...! \\w[45]",

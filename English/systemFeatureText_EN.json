@@ -103,6 +103,11 @@
   ],
   "silentUpdateSuccess": [
     "New patch content for ${} has been successfully installed and will take effect upon the next restart."
+  ],  
+  "outdatedVersionWarning": [
+    "Your current game version is outdated. The latest version is ${}.",
+	"Major version updates do not support automatic updates. ",
+	"Please re-download the game from the official source."
   ],
   "renameCharacter": [
     "I remember now—",

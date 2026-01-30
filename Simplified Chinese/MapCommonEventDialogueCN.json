@@ -21,6 +21,23 @@
 			"算了",
 			"丢弃"
         ]	
+    },
+  "sealingScroll": [
+            "还没有被封印的物品",
+		    "封印中:"
+    ],	
+  "skillOnCooldown": {
+        "0": [
+            "技能冷却中！!"
+		]
+    },
+  "inventoryOverweight": {
+        "weapon": [
+            "拿不下更多武器啦！!"
+		],
+        "gear": [
+            "拿不下更多装备啦！!"
+		]		
     },		
   "Abyss": {
         "0": [

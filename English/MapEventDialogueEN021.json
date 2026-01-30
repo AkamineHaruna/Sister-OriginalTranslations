@@ -13,7 +13,7 @@
 		"3": [
             "It's still the middle of the night.",
 			"I can sleep a bit more...\\w[30].\\w[30].\\w[30].",
-			"Should I go check on my sister?"
+			"Should I go check on \\str[120]?"
         ],
 		"4": [
             "To \\str[120]'s Room",
@@ -57,7 +57,7 @@
         "2": [
             "...Is it morning already? ",
 			"I feel like I had some kind of dream about ",
-            "my little sister, ",
+            "\\str[120], ",
 			"but I can’t remember it..."
         ],
         "3": [
@@ -82,7 +82,7 @@
 			"I hope it won't affect our adventure..."
         ],
         "9": [
-            "Haven’t checked on my sister for a few days… ",
+            "Haven’t checked on \\str[120] for a few days… ",
 			"Guess I should drop by today."
         ],
         "10": [
@@ -147,7 +147,7 @@
 			"her pupils filled with the haze of sleep."
         ],
 		"8": [
-            "\\nl< >\"Eh... \\str[121]...?",
+            "\\nl< >\"Eh... \\str[121]...?     \\w[150]",
 			"Why... are you in bed too...?\""
         ],
 		"9": [
@@ -160,7 +160,8 @@
             "to her cheeks at a visible speed."
         ],
 		"11": [
-            "\\nl< >\"Uu... ♥ G-good morning... \\str[121]...",
+            "\\nl< >\"Uu... ♥                   \\w[120]",
+			"G-good morning... \\str[121]...    \\w[120]",
 			"About last night... um... thank you...\""
         ],
 		"12": [
@@ -175,7 +176,7 @@
             "we walk into the washroom together."
         ],
 		"14": [
-            "\\nl< >\"...Mmuu... nya...♥",
+            "\\nl< >\"...Mmuu... nya...♥         \\w[120]",
 			"\\str[121]... not there... it's no good...\""
         ],
 		"15": [
@@ -213,7 +214,7 @@
 			"I greedily feel every inch of her skin."
         ],
 		"22": [
-            "\\nl< >\"...Hnngh ♥",
+            "\\nl< >\"...Hnngh ♥      \\w[180]",
 			"Uu... nnh... ah... ♥\""
         ],
 		"23": [
@@ -226,6 +227,135 @@
 			"...No! What am I thinking!",
             "How could I do this to her so early in the morning...",
             "I'd better just get up!"
+        ],
+		"25": [
+            "\\nl< >\"Poke... poke...\""
+        ],
+		"26": [
+            "My consciousness was still drifting on the edge of a hazy fog,",
+            "when clear, soft whispers reached my ears, ",
+			"accompanied by intermittent touches on my cheek."
+        ],
+		"27": [
+            "\\nl< >\"Poke... poke...      \\w[150]",
+			"\\str[121] just won't wake up at all...\""
+        ],
+		"28": [
+            "It felt as if someone beside me was tirelessly tapping ",
+			"and poking at my face."
+        ],		
+		"29": [
+            "\"Pinch... Now your nose is caught...        \\w[150]",
+			"How many seconds can you hold out, \\str[121]~?\""
+        ],
+		"29.2": [
+            "My breathing became difficult in an instant.",
+            "I could feel someone pinching my nostrils with two fingers,",
+            "and I could even hear her shallow, ",
+			"rapid breaths as she stifled a laugh."
+        ],
+		"29.4": [
+            "............It's \\str[120], isn't it?",
+            "Memories began to flood back—",
+            "Right, we ended up sleeping together last night."
+        ],
+		"30": [
+            "I was surprised she had woken up before me,",
+            "but facing such a cute prank, ",
+			"I didn't intend to expose myself just yet."
+        ],
+		"31": [
+			"I secretly took a deep breath through my mouth, ",
+			"which wasn't restricted,",
+            "then concentrated all my energy on my nose ",
+			"and blew out a sudden, sharp gust of air!"
+        ],
+		"32": [
+            "\\{\\nl< >\"W-Woaah~~! \\str[121] exploded~~!?\"",
+			"\\w[90] "
+        ],
+		"33": [
+			"The sudden force acted like a miniature air pump, ",
+			"instantly popping her fingers off.",
+            "Not expecting this, \\str[120] let out a cry that ",
+			"was a mix of startle and excitement."
+        ],
+		"34": [
+            "\\nl< >\"...But he's still not awake~     \\w[120]",
+			"How strange, was that just a sneeze?\""
+        ],
+		"35": [
+            "\\nl< >\"Poke... poke...    \\w[150]",
+			"\\str[121] really won't wake up~\""
+        ],
+		"36": [
+			"Seeing that I remained unresponsive with my eyes closed, ",
+			"she leaned in with a hint of frustration,",
+            "her fingers restlessly testing the edges of my lips once more."
+        ],
+		"37": [
+            "\\{\"Gawuu~~~~!!\"     \\w[60]\\^"
+        ],
+		"38": [
+            "The moment her fingertips neared my mouth again,",
+			"I seized the opportunity and snapped my jaw open, ",
+			"taking the whole finger inside."
+        ],
+		"39": [
+            "\\{\\nl< >\"Wueeeeee~~!? I got bitten—    \\w[90]",
+			"No, I'm being licked~~!\""
+        ],
+		"40": [
+            "\\nl< >\"\\str[121]! ",
+			"You've been awake this whole time, haven't you~!   \\w[90]",
+			"Let go of my hand already~~!\""
+        ],
+		"41": [
+            "Having been countered for the second time,",
+			"\\str[120] let out another startled squeak.",
+            "By now, she clearly realized she had been played ",
+			"from the very beginning."
+        ],		
+		"42": [
+            "\"Impudent girl!",
+			"To dare trespass into the dragon's lair,",
+			"prepare yourself to be devoured!\""
+        ],
+		"43": [
+            "Feeling the timing was right, I snapped my eyes open.",
+            "Even with her finger still in my mouth, ",
+			"I deliberately used a deep, gravelly voice to let out a monster-like growl."
+        ],
+		"44": [
+            "\\nl< >\"I'm not afraid of that one bit~!",
+			"The Great Evil Dragon was sleeping like a log just a second ago...!\""
+        ],
+		"45": [
+            "\\str[120] squirmed and struggled under the covers, ",
+			"reacting to the slick, ticklish sensation against her finger.",
+			"In her clear, satisfied giggles, there wasn't a single trace of fear."
+        ],
+		"46": [
+            "This defenseless, completely vulnerable appearance of hers",
+            "caused the desire suppressed through the night to ",
+			"swell to its peak at this very moment—"
+        ],
+		"47": [
+            "\"Rawr—! The Dragon is on the move!\""
+        ],
+		"48": [
+            "\\nl< >\"Hahahaha... it tickles!",
+			"\\str[121]... stop it!",
+			"Not there... ha, haha!\""
+        ],
+		"49": [
+			"...Today will surely be another peaceful and tranquil day.",
+            "I kept licking the side of her neck and ear, ",
+			"which had grown hot from her blushing.",
+			"\\w[30]",
+            "Listening to her lovely laughter, ",
+			"I prayed from the bottom of my heart that ",
+			"this life could last forever..."
         ]
     },	
   "4": {

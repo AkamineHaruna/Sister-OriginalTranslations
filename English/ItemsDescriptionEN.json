@@ -17,6 +17,7 @@
         "name": [
             "Adventurer’s Handbook"
         ],
+        "beIndependent": true,		
         "subtitle": [
 		    "\"Written by RORO, begun on 2024/10/1\""
 		],
@@ -151,6 +152,7 @@
         "name": [
             "Bunny Map"
         ],
+        "beIndependent": true,		
         "subtitle": "",
         "description": [
             "A map used by maid bunnies, still covered in carrot crumbs",
@@ -166,6 +168,7 @@
         "name": [
             "Magic Camera"
         ],
+        "beIndependent": true,		
         "subtitle": "",
         "description": [
             "Said to be an Eastern artifact, exquisitely crafted yet lost",
@@ -180,6 +183,7 @@
         "name": [
             "JoyStation V"
         ],
+        "beIndependent": true,		
         "subtitle": [
             "\"Even at the fifth generation, soul-materialization limits still prevent",
 			" players from directly diving their consciousness.\""	
@@ -197,6 +201,7 @@
         "name": [
             "Shadow Souls DLC"
         ],
+        "beIndependent": true,		
         "subtitle": "",
         "description": [
 		    "An expansion pack for Shadow Souls.",
@@ -225,6 +230,7 @@
         "name": [
             "Rubber Ducky"
         ],
+        "beIndependent": true,		
         "subtitle": "",
         "description": [
             "A rubber duck toy inexplicably left all alone in the river channel.",
@@ -240,6 +246,7 @@
         "name": [
             "Electric Fan"
         ],
+        "beIndependent": true,		
         "subtitle": "",
         "description": [
             "A small electric fan with an outdated model and rather weak airflow.",
@@ -758,13 +765,31 @@
         "name": [
             "Sushi Pudding"
         ],
+        "beIndependent": true,		
         "subtitle": "",
         "description": [
-            "A familiar of a certain Archdemon. Letting it loose",
-            "will lead you to the Archdemon’s whereabouts. But",
-            "is it a Neko, sushi, or pudding? It still looks delicious"
+            "A familiar belonging to a certain Archdemon",
+            "Releasing it will reveal the demon's location",
+            "Is it a cat, a piece of sushi, or a pudding?",
+            "Regardless of its true form, it looks tasty!"
         ],
         "ability": ""
+    },
+    "80": {
+        "name": [
+            "Sealing Scroll"
+        ],
+        "beIndependent": true,		
+        "subtitle": "",		
+        "description": [
+		    "A secret tool passed down solely among ninja",
+            "Activating the Curse Marks opens a spatial rift, sealing items within",
+            "Those items can be summoned again whenever the need arises"
+        ],
+        "ability": [
+            "Seal or summon all currently equipped item",
+			"\\str[110]"
+		]
     },
     "88": {
         "name": [
@@ -1256,10 +1281,29 @@
         ],
         "ability": ""
     },
+    "185": {
+        "name": [
+            "Personal Jesus"
+        ],
+        "beIndependent": true,
+        "subtitle": [
+            "\"Dirty Deeds Done Dirt Cheap...\""
+        ],
+        "description": [
+            "A wicked curiosity crafted by an Archdemon after observing",
+            "human civilization Every sin of the bearer is faithfully",
+            "recorded and converted into points These points can then",
+            "be offered to the demon in exchange for unholy favors—"
+        ],
+        "ability": [
+            "Records sins as points. enables Demonic Trading"
+        ]
+    },	
     "187": {
         "name": [
             "Old Videotape"
         ],
+        "beIndependent": true,			
         "subtitle": [
             ""
         ],
@@ -1277,6 +1321,7 @@
         "name": [
             "Horror Videotape"
         ],
+        "beIndependent": true,			
         "subtitle": [
             ""
         ],
@@ -1294,6 +1339,7 @@
         "name": [
             "Adult Videotape"
         ],
+        "beIndependent": true,			
         "subtitle": [
             ""
         ],
@@ -1311,6 +1357,7 @@
         "name": [
             "Yuri Doujinshi"
 		],
+        "beIndependent": true,			
 		"subtitle": [
 		    "\"Onee-chan... I feel like... I can’t live without you anymore...\""
 		],
@@ -1327,6 +1374,7 @@
         "name": [
             "Moe Doujinshi"
 		],
+        "beIndependent": true,			
 		"subtitle": [
 		    "\"Moe moe kyun~♡\""
 		],
@@ -1343,6 +1391,7 @@
         "name": [
             "Catgirl Doujinshi"
 		],
+        "beIndependent": true,			
 		"subtitle": [
 		    "\"Master... nya~ Can I get some headpats?\""
 		],
@@ -1354,11 +1403,12 @@
         "ability": [
             "Increases desire after reading!"
 		]	
-    },
+    },	
     "197": {
         "name": [
             "Elixir Rubrum"
         ],
+        "beIndependent": true,		
         "subtitle": [
             "\"Haec est totius fortitudinis fortitudo fortis,  ",
             "quia vincet omnem rem subtilem, omnemque solidam penetrabit.\""
@@ -1376,6 +1426,7 @@
         "name": [
             "\\str[120]'s T-shirt"
         ],
+        "beIndependent": true,		
         "subtitle": [
             "\"Knight-sama...! It even has an autograph on it...!\""
         ],
@@ -1863,6 +1914,7 @@
         "name": [
             "Polaroid Album"
         ],
+        "beIndependent": true,		
         "subtitle": [
             "\"Soft and adorable girls♥ I wanna take every one of them home—!\""
         ],
@@ -1878,6 +1930,7 @@
         "name": [
             "Polaroid Album"
         ],
+        "beIndependent": true,		
         "subtitle": [
             "\"Soft and adorable girls♥ I wanna take every one of them home—!\""
         ],

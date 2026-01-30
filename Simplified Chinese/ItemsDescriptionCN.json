@@ -17,6 +17,7 @@
         "name": [
             "冒险者心得"
         ],
+        "beIndependent": true,		
         "subtitle": [
 		    "「扉页写着RORO于2024/10/1开始撰写」"
 		],
@@ -144,6 +145,7 @@
         "name": [
             "兔子地图"
         ],
+        "beIndependent": true,		
         "subtitle": "",
         "description": [
             "女仆兔之间秘密流传的地图，上面还沾着胡萝卜屑",
@@ -159,6 +161,7 @@
         "name": [
             "魔导映写器"
         ],
+        "beIndependent": true,		
         "subtitle": "",
         "description": [
             "据说是来自东方的魔导具，工艺精湛，但不知为何流落到了深渊……",
@@ -173,6 +176,7 @@
         "name": [
             "JoyStation V"
         ],
+        "beIndependent": true,		
         "subtitle": [
             "「受限于灵魂物质化技术的成熟度，即便发展至第五世代，",
 			"玩家仍无法将意识直接潜入游戏当中，以进一步加深体验……」"	
@@ -190,6 +194,7 @@
         "name": [
             "暗影之魂DLC"
         ],
+        "beIndependent": true,		
         "subtitle": "",
         "description": [
 		    "《暗影之魂》的扩展内容包。",
@@ -216,6 +221,7 @@
         "name": [
             "橡胶鸭"
         ],
+        "beIndependent": true,		
         "subtitle": "",
         "description": [
             "不知为何被孤零零地遗落在河道中的橡胶鸭玩具",
@@ -231,6 +237,7 @@
         "name": [
             "电风扇"
         ],
+        "beIndependent": true,		
         "subtitle": "",
         "description": [
             "型号老旧、风力也称不上强劲的小型电风扇。",
@@ -864,12 +871,29 @@
         "name": [
             "寿司布丁"
         ],
+        "beIndependent": true,		
         "subtitle": "",
         "description": [
             "某只大恶魔的使魔，放飞它便能找到大恶魔的行踪",
             "但这到底是猫、寿司还是布丁呢？不管怎么说它都看起来很好吃…"
         ],
         "ability": ""
+    },
+    "80": {
+        "name": [
+            "封术卷轴"
+        ],
+        "beIndependent": true,		
+        "subtitle": "",		
+        "description": [
+		    "仅在忍者之间流传的秘传道具",
+			"催动卷轴上书写的咒印文字，便可开启亚空间",
+            "可将物品吸纳其中进行封印，或在需要时再次释放出来"
+        ],
+        "ability": [
+            "将身上装备的所有物品进行封印/召唤",
+			"\\str[110]"
+		]
     },
     "86": {
         "name": [
@@ -1378,10 +1402,28 @@
         ],
         "ability": ""
     },
+    "185": {
+        "name": [
+            "私人救赎"
+        ],
+        "beIndependent": true,
+        "subtitle": [
+            "「恶行易施……」"
+        ],
+        "description": [
+            "某位大恶魔在观察人类文明后制作出来的恶趣味道具",
+			"持有者的一切恶行都会被忠实保存，并转换为点数",
+			"而这些点数可被用于献给恶魔换取对应的回报——"
+        ],
+        "ability": [
+            "记录恶行并转化为点数，可展开恶魔交易"
+        ]
+    },
     "187": {
         "name": [
             "旧录像带"
         ],
+        "beIndependent": true,			
         "subtitle": [
             ""
         ],
@@ -1398,6 +1440,7 @@
         "name": [
             "恐怖录像带"
         ],
+        "beIndependent": true,			
         "subtitle": [
             ""
         ],
@@ -1414,6 +1457,7 @@
         "name": [
             "成人录像带"
         ],
+        "beIndependent": true,			
         "subtitle": [
             ""
         ],
@@ -1430,6 +1474,7 @@
         "name": [
             "百合同人本"
         ],
+        "beIndependent": true,			
         "subtitle": [
             "「姐姐…我好像…再也离不开你了……」"
         ],
@@ -1446,6 +1491,7 @@
         "name": [
             "萌萌同人本"
         ],
+        "beIndependent": true,			
         "subtitle": [
             "「萌萌——哒~♡」"
         ],
@@ -1462,6 +1508,7 @@
         "name": [
             "猫娘同人本"
         ],
+        "beIndependent": true,			
         "subtitle": [
             "「主人…喵~可以摸摸头吗？」"
         ],
@@ -1478,6 +1525,7 @@
         "name": [
             "红髓液"
         ],
+        "beIndependent": true,		
         "subtitle": [
             "「此乃全然坚毅之大坚毅，渗透所有坚固之物，胜过任何精妙之物。」"
         ],
@@ -1493,6 +1541,7 @@
         "name": [
             "\\str[120]的T恤"
         ],
+        "beIndependent": true,		
         "subtitle": [
             "「骑士大人……！上面还有亲笔签名……！」"
         ],
@@ -1978,6 +2027,7 @@
         "name": [
             "茶会拍立得收藏集"
         ],
+        "beIndependent": true,		
         "subtitle": [
             "「软呼呼可爱的女孩子♥ 每一张都好想抱回家——！」"
         ],
@@ -1993,6 +2043,7 @@
         "name": [
             "茶会拍立得收藏集"
         ],
+        "beIndependent": true,		
         "subtitle": [
             "「软呼呼可爱的女孩子♥ 每一张都好想抱回家——！」"
         ],
