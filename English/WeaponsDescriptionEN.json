@@ -614,6 +614,23 @@
             "Restores \\c[29]${Math.floor(1.2*$gameParty.leader().paramPlus(2))}\\c[0] HP to the wielder upon defeating an enemy"
         ]
     },
+    "66": {
+        "name": [
+            "Pillar of Ritual"
+        ],
+        "subtitle": [
+		    "\"——most adventurers just call this thing the Deer Pipe.\""
+		],
+        "description": [
+            "A weapon commonly used by the Lust Demon, said to have ",
+			"originally been some kind of ritual implement.",
+            "Its material and inner magic remain impossible to analyze.",
+            "It also works surprisingly well as an alarm clock…!"
+        ],
+        "ability": [
+            "At the top of each hour, gain a blessing that boosts all stats"
+        ]
+    },
     "70": {
         "name": [
             "Ancient Glory"

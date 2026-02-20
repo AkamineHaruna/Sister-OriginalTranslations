@@ -1,23 +1,53 @@
 {
-  "gameTitle": ["存在感薄い彼女との簡単生活"],
-  "goldHeld": ["所持金"],
-  "quantityHeld": ["\\fs[18]•所持数:\\c[17] ${} \\c[0]\\py[-8]"],
+  "gameTitle": [
+    "存在感薄い彼女との簡単生活"
+  ],
+  "goldHeld": [
+    "所持金"
+  ],
+  "quantityHeld": [
+    "\\fs[18]•所持数:\\c[17] ${} \\c[0]\\py[-8]"
+  ],
   "autoUpdate": [
     "同期可能なバージョン${}のゲームデータが見つかりました。",
     "今すぐダウンロードして更新しますか？"
   ],
-  "fullScreen": ["フルスクリーン"],
-  "masterVolume": ["マスター音量"],
-  "voiceVolume": ["Voice 音量"],
-  "BgmVolume": ["BGM 音量"],
-  "BgsVolume": ["BGS 音量"],
-  "SeVolume": ["SE 音量"],
-  "MaxPlayerMsgs": ["プレイヤーメッセージ表示上限"],
-  "GameFAQ": ["ゲーム攻略"],
-  "ShowWeaponDurability": ["武器耐久表示常時"],
-  "DisableAutoUpdate": ["自動更新を無効化"],
-  "LockedFPS": ["60FPSに固定"],
-  "Language": ["ゲーム言語"],
+  "fullScreen": [
+    "フルスクリーン"
+  ],
+  "masterVolume": [
+    "マスター音量"
+  ],
+  "voiceVolume": [
+    "Voice 音量"
+  ],
+  "BgmVolume": [
+    "BGM 音量"
+  ],
+  "BgsVolume": [
+    "BGS 音量"
+  ],
+  "SeVolume": [
+    "SE 音量"
+  ],
+  "MaxPlayerMsgs": [
+    "プレイヤーメッセージ表示上限"
+  ],
+  "GameFAQ": [
+    "ゲーム攻略"
+  ],
+  "ShowWeaponDurability": [
+    "武器耐久表示常時"
+  ],
+  "DisableAutoUpdate": [
+    "自動更新を無効化"
+  ],
+  "LockedFPS": [
+    "60FPSに固定"
+  ],
+  "Language": [
+    "ゲーム言語"
+  ],
   "SwitchLanguage": [
     "ゲームの言語設定に変更が検出されました！",
     "新しい言語環境に対応するため、ゲームを再起動します！"
@@ -54,9 +84,15 @@
     "現在のローカルセーブデータが上書きされます！",
     "続行しますか？"
   ],
-  "bagFull": ["所持上限超過！！"],
-  "noStatusEffects": ["なんの状態でもないよ！"],
-  "unimplementedDoor": ["このドアはこちら側から押して開かない"],
+  "bagFull": [
+    "所持上限超過！！"
+  ],
+  "noStatusEffects": [
+    "なんの状態でもないよ！"
+  ],
+  "unimplementedDoor": [
+    "このドアはこちら側から押して開かない"
+  ],
   "zipUpdateComplete": [
     "パッチのインストールが完了しました、",
     "ゲームを再起動してアップデートを適用します！"
@@ -69,7 +105,9 @@
   "fileDownloadedSuccessfully": [
     "${}のダウンロードに失敗しました！再試行中です！"
   ],
-  "fileDownloadFailed": ["${}文件下载失败！正在重新尝试下载！"],
+  "fileDownloadFailed": [
+    "${}文件下载失败！正在重新尝试下载！"
+  ],
   "installPatch": [
     "解凍が必要なパッチが検出されました。現在インストール中です——この過程では画面が一時的に固まる可能性がありますので、少々お待ちください！"
   ],
@@ -84,9 +122,16 @@
     "本アップデートはメジャーアップデートのため、自動更新には対応していません。",
     "公式配布元から再ダウンロードしてください。"
   ],
-  "renameCharacter": ["思い出した、", "彼女は——"],
-  "heroName": ["お兄ちゃん"],
-  "heroineName": ["妹"],
+  "renameCharacter": [
+    "思い出した、",
+    "彼女は——"
+  ],
+  "heroName": [
+    "お兄ちゃん"
+  ],
+  "heroineName": [
+    "妹"
+  ],
   "nonHardwareAccelerated": [
     "ゲームが専用GPUでレンダリングされていないことを検出しました！",
     "お使いのPCに専用GPUが搭載されている場合は、より快適に遊ぶため、",
@@ -104,7 +149,9 @@
     "①ゲームの解凍やインストール時に文字化けやファイル破損が起きた可能性",
     "②開発者が当該ファイルを追加し忘れているため、修正パッチの配布をお待ちください"
   ],
-  "LowResMode": ["低画質モード"],
+  "LowResMode": [
+    "低画質モード"
+  ],
   "lowResModeWarning": [
     "この機能は主にAndroid端末でのパフォーマンス最適化を目的としており、",
     "PC版では大きな効果は見込めない場合があります。",
@@ -113,9 +160,15 @@
     "ご注意：これは実験的な機能であり、効果は端末によって異なる場合があります。",
     "この機能はいつでもオフにでき、すぐに画面の鮮明さを元に戻せます。"
   ],
-  "nearbyMonstersCount": ["周囲の魔物を探知"],
-  "nearbyTreasuresCount": ["周囲の遺物を探知"],
-  "underwaterTreasuresCount": ["水中の遺物を探知"],
+  "nearbyMonstersCount": [
+    "周囲の魔物を探知"
+  ],
+  "nearbyTreasuresCount": [
+    "周囲の遺物を探知"
+  ],
+  "underwaterTreasuresCount": [
+    "水中の遺物を探知"
+  ],
   "guideHint": [
     "Ctrl+Fで検索バーを開けます。画面下のボタンをクリックすると文書の内容を切り替えられます。"
   ],
@@ -126,7 +179,7 @@
   ],
   "memberMenu": {
     "firstTimeNotice": [
-      "これは現在テスト中の正規版認証機能です。", 
+      "これは現在テスト中の正規版認証機能です。",
       "ここでPatreonアカウントにログインして正規版認証ができます！",
       "有効なサブスクリプションが確認できた場合、",
       "メジャーアップデートの自動更新などの機能が利用できます。",

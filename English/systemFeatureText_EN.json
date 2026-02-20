@@ -1,23 +1,53 @@
 {
-  "gameTitle": ["A Simple Life with My Unobtrusive Girl "],
-  "goldHeld": ["Gold"],
-  "quantityHeld": ["\\fs[16]•Quantity Held:\\c[17] ${} \\c[0]\\py[-8]"],
+  "gameTitle": [
+    "A Simple Life with My Unobtrusive Girl "
+  ],
+  "goldHeld": [
+    "Gold"
+  ],
+  "quantityHeld": [
+    "\\fs[16]•Quantity Held:\\c[17] ${} \\c[0]\\py[-8]"
+  ],
   "autoUpdate": [
     "Update available: Version ${} game data detected. ",
     "Would you like to download and update now?"
   ],
-  "fullScreen": ["Full Screen"],
-  "masterVolume": ["Master Volume"],
-  "voiceVolume": ["Voice Volume"],
-  "BgmVolume": ["BGM Volume"],
-  "BgsVolume": ["BGS Volume"],
-  "SeVolume": ["SE Volume"],
-  "MaxPlayerMsgs": ["Max Player Msgs"],
-  "GameFAQ": ["Game Guide"],
-  "ShowWeaponDurability": ["Show Weapon Durability"],
-  "DisableAutoUpdate": ["Disable Auto Update"],
-  "LockedFPS": ["Locked 60 FPS"],
-  "Language": ["Game Language"],
+  "fullScreen": [
+    "Full Screen"
+  ],
+  "masterVolume": [
+    "Master Volume"
+  ],
+  "voiceVolume": [
+    "Voice Volume"
+  ],
+  "BgmVolume": [
+    "BGM Volume"
+  ],
+  "BgsVolume": [
+    "BGS Volume"
+  ],
+  "SeVolume": [
+    "SE Volume"
+  ],
+  "MaxPlayerMsgs": [
+    "Max Player Msgs"
+  ],
+  "GameFAQ": [
+    "Game Guide"
+  ],
+  "ShowWeaponDurability": [
+    "Show Weapon Durability"
+  ],
+  "DisableAutoUpdate": [
+    "Disable Auto Update"
+  ],
+  "LockedFPS": [
+    "Locked 60 FPS"
+  ],
+  "Language": [
+    "Game Language"
+  ],
   "SwitchLanguage": [
     "Game language change detected!",
     "Restarting now to apply the new language settings!"
@@ -41,9 +71,15 @@
     "A newer patch is available—",
     "Please use auto-update to fix the issue!"
   ],
-  "bagFull": ["Inventory limit exceeded!!"],
-  "noStatusEffects": ["No status effects at all!"],
-  "unimplementedDoor": ["This door won't push open from this side"],
+  "bagFull": [
+    "Inventory limit exceeded!!"
+  ],
+  "noStatusEffects": [
+    "No status effects at all!"
+  ],
+  "unimplementedDoor": [
+    "This door won't push open from this side"
+  ],
   "zipUpdateComplete": [
     "Patch installed successfully. ",
     "Restarting the game to apply the update!"
@@ -53,8 +89,12 @@
     "Please try the auto-update again or",
     "manually extract the patch files to install!"
   ],
-  "fileDownloadedSuccessfully": ["${} downloaded successfully!"],
-  "fileDownloadFailed": ["${} failed to download! Retrying now!"],
+  "fileDownloadedSuccessfully": [
+    "${} downloaded successfully!"
+  ],
+  "fileDownloadFailed": [
+    "${} failed to download! Retrying now!"
+  ],
   "installPatch": [
     "Patch requires extraction—installing now. This may cause the game to lag, please be patient!"
   ],
@@ -69,9 +109,16 @@
     "Major version updates do not support automatic updates. ",
     "Please re-download the game from the official source."
   ],
-  "renameCharacter": ["I remember now—", "she is..."],
-  "heroName": ["Onii-chan"],
-  "heroineName": ["Imouto"],
+  "renameCharacter": [
+    "I remember now—",
+    "she is..."
+  ],
+  "heroName": [
+    "Onii-chan"
+  ],
+  "heroineName": [
+    "Imouto"
+  ],
   "nonHardwareAccelerated": [
     "The game is currently running on integrated graphics!",
     "If your PC has a dedicated GPU, we recommend setting Game.exe ",
@@ -88,7 +135,9 @@
     "① Game files corrupted or filenames garbled due to encoding issues during extraction/installation.",
     "② The developer forgetting to include the file—please wait for a patch update to fix it."
   ],
-  "LowResMode": ["Low Graphics Mode"],
+  "LowResMode": [
+    "Low Graphics Mode"
+  ],
   "lowResModeWarning": [
     "This feature is mainly for performance optimization on Android devices and may have little effect on the PC version.",
     "When enabled, the game renders maps and images at a lower resolution and then scales them up, ",
@@ -108,9 +157,15 @@
     "Downloading a save file from Google Drive will overwrite your current local save data!",
     "Do you want to continue?"
   ],
-  "nearbyMonstersCount": ["Detected nearby monsters"],
-  "nearbyTreasuresCount": ["Detected nearby treasures"],
-  "underwaterTreasuresCount": ["Detected underwater treasures"],
+  "nearbyMonstersCount": [
+    "Detected nearby monsters"
+  ],
+  "nearbyTreasuresCount": [
+    "Detected nearby treasures"
+  ],
+  "underwaterTreasuresCount": [
+    "Detected underwater treasures"
+  ],
   "steamWishlist": [
     "Our Steam store page is finally live!",
     "Please add us to your wishlist and support us! (*´∀`)~♥",
@@ -118,17 +173,17 @@
   ],
   "memberMenu": {
     "firstTimeNotice": [
-    "This is the legitimate player verification feature currently under testing.", 
-    "You can log in with your Patreon account here to verify your identity!",
-    "Accounts with an active subscription will gain access to ",
-    "features such as automatic major version updates.",
-    "Please note:",
-    "Direct purchases of the game on Patreon are not ",
-    "currently included in this verification scope.",
-    "We will later support verification for players ",
-    "who purchased the game on other platforms,",
-    "and gradually roll out more services and feature support."
-  ],    
+      "This is the legitimate player verification feature currently under testing.",
+      "You can log in with your Patreon account here to verify your identity!",
+      "Accounts with an active subscription will gain access to ",
+      "features such as automatic major version updates.",
+      "Please note:",
+      "Direct purchases of the game on Patreon are not ",
+      "currently included in this verification scope.",
+      "We will later support verification for players ",
+      "who purchased the game on other platforms,",
+      "and gradually roll out more services and feature support."
+    ],
     "shortHint": " Can now enable cloud saves & major updates",
     "waitingLogin": "Waiting for login completion...",
     "notLoggedIn": "Not Logged In",
@@ -139,7 +194,7 @@
     "Subscribed": "Subscription confirmed!",
     "NotSubscribed": "No active subscription detected. Some features are unavailable.",
     "lastCheck": "LastCheck: ",
-    "checkLatestVersion": "Checking for the latest version, please wait...",    
+    "checkLatestVersion": "Checking for the latest version, please wait...",
     "isLatestVersion": "You are already on the latest version!",
     "notSponsor": "Unverified users must subscribe first!",
     "majorUpdateFailed": [
@@ -147,7 +202,7 @@
       "Error code: ${}",
       "Please try logging in for verification and start the update again,",
       "or send this screenshot to our Discord server for assistance!"
-    ]    
+    ]
   },
   "AdventurersPathway": {
     "mapName": " -Adventurer's Pathway- "

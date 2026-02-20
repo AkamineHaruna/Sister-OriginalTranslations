@@ -973,17 +973,33 @@
     },
     "75": {
         "name": [
-            "Demon Eye"
+            "Demon Eyeball"
         ],
         "subtitle": "",
         "description": [
-            "An eyeball taken from a demon.  ",
+            "An eyeball taken from a demon. It’s still watching.  ",
             "Demons skilled at manipulating minds often possess the ability ",
 			"to see through things. Perhaps it allows you to notice details ",
 			"that would otherwise be overlooked..."
         ],
         "ability": [
             "Reveals hidden objects and paths while equipped"
+        ]
+    },
+    "77": {
+        "name": [
+            "A Maiden's Prayer"
+        ],
+        "subtitle": [
+            "\"Fish… so many fish… piles of salmon…\""
+        ],
+        "description": [
+            "A prayer offered by an archdemon obsessed with eating salmon",
+            "Saying it can warp reality might be a bit of an exaggeration…",
+			"but she is genuinely, earnestly waiting for offerings to arrive"
+        ],
+        "ability": [
+            "More likely to obtain \\ii[142] and \\ii[143]"
         ]
     },	
     "80": {
