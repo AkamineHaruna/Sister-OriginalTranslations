@@ -220,8 +220,8 @@
             "——这样真的能变强吗！？总而言之先照做吧……"
         ],
         "ability": [
-		    "空挥练习次数: \\{\\c[6]${$gameActors.actor(1).skillMasteryUses(26)}\\c[0]",
-			"近战武器的基础攻击提升\\c[6]${Math.ceil(1.8**$gameActors.actor(1).skillMasteryLevel(26))}%\\c[0]伤害"
+		    "空挥练习次数: \\{\\c[6]${QJ.MPMZ.tl.playerSwordsmanshipTraining(1)}\\c[0]",
+			"近战武器的基础攻击提升\\c[6]${QJ.MPMZ.tl.playerSwordsmanshipTraining(2)}%\\c[0]伤害"
 		]
     }	
 }
