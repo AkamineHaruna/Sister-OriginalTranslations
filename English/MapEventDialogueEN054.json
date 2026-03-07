@@ -246,7 +246,7 @@
 		    "if she was still in pain from the spiciness."
 		],
         "34": [
-            "\\nl< >\"O-\\str[121]——— are you done yet?\"",
+            "\\nl< >\"\\str[121]——— are you done yet?\"",
 			"\\w[150]"
 		],
         "35": [
@@ -258,7 +258,7 @@
 		    "desire welling up in my chest."
 		],
         "37": [
-            "\"\\str[121] will help you feel better, okay? ",
+            "\"I will help you feel better, okay? ",
 			"It’ll stop hurting soon...\""
 		],
         "38": [
